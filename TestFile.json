@@ -1,0 +1,21 @@
+{
+"transition": {
+    "fields": {},
+    "id": "921",
+    "name": "Open",
+    "to": {
+        "description": "The issue is open and ready for the assignee to start work on it.",
+        "iconUrl": "https://bits.bazaarvoice.com/jira/images/icons/statuses/generic.png",
+        "id": "1",
+        "name": "Open",
+        "self": "https://bits.bazaarvoice.com/jira/rest/api/2/status/1",
+        "statusCategory": {
+            "colorName": "blue-gray",
+            "id": 2,
+            "key": "new",
+            "name": "To Do",
+            "self": "https://bits.bazaarvoice.com/jira/rest/api/2/statuscategory/2"
+			}
+		}
+	}
+}
